@@ -7,7 +7,7 @@ body {
     align-items: center;
 }
 
-#not-mouse {
+#not-cat {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     min-width: 100vw
