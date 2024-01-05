@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Starter Code](./internal-resources/assets/tktk-hero.png)
+# ![[Using Classes] - Starter Code](./internal-resources/assets/tktk-hero.png)
 
 ## Builder instructions
 
