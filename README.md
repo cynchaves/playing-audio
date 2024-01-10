@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Starter Code](./internal-resources/assets/tktk-hero.png)
+# ![[Using Classes] - Starter Code](./internal-resources/assets/tktk-hero.png)
 
 ## Builder instructions
 
@@ -79,7 +79,7 @@ tktk When that work is done, delete the **Builder instructions** section and its
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab? Leave this note for students below:
+Starter code for the **Using Classes** lesson. This code will provide scaffolding for their walkthrough of using built-in JavaScript classes, specifically, the `Audio` class.
 
 You may delete this README file, along with the `internal-resources` directory.
 
