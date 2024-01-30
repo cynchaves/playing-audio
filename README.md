@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - Starter Code](./internal-resources/assets/tktk-hero.png)
+# ![Using JavaScript Classes - Starter Code](./internal-resources/assets/hero.png)
 
 ## About
 
