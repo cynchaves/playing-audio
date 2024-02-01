@@ -2,7 +2,7 @@
 
 ## About
 
-Starter code for the **Using Classes** lesson. This code will provide scaffolding for their walkthrough of using built-in JavaScript classes, specifically, the `Audio` class.
+Starter code for the **Playing Audio in the Browser** lesson. This code will provide a scaffolded walkthrough of playing sound clips in the browser with the HTML <audio> tag and the `Audio` class in Javascript.
 
 
 ## Internal resources
